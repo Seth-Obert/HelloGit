@@ -13,5 +13,6 @@ public class Hello {
 
 	public static void main(String args[]) {
 		System.out.println("Hello my name is Seth!");
+		System.out.println("My major is computer engineering!")
 	}
 }
